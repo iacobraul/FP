@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\FP\SecventaCautaNr\SecventaCautaNr\bin\Debug\SecventaCautaNr.exe.config
+C:\Users\Raul\source\repos\FP\SecventaCautaNr\SecventaCautaNr\bin\Debug\SecventaCautaNr.exe
+C:\Users\Raul\source\repos\FP\SecventaCautaNr\SecventaCautaNr\bin\Debug\SecventaCautaNr.pdb
+C:\Users\Raul\source\repos\FP\SecventaCautaNr\SecventaCautaNr\obj\Debug\SecventaCautaNr.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\FP\SecventaCautaNr\SecventaCautaNr\obj\Debug\SecventaCautaNr.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\FP\SecventaCautaNr\SecventaCautaNr\obj\Debug\SecventaCautaNr.exe
+C:\Users\Raul\source\repos\FP\SecventaCautaNr\SecventaCautaNr\obj\Debug\SecventaCautaNr.pdb
