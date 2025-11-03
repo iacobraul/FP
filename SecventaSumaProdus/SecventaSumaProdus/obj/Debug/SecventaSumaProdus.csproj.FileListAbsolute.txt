@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\FP\SecventaSumaProdus\SecventaSumaProdus\obj\Debug\SecventaSumaProdus.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\FP\SecventaSumaProdus\SecventaSumaProdus\obj\Debug\SecventaSumaProdus.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\FP\SecventaSumaProdus\SecventaSumaProdus\bin\Debug\SecventaSumaProdus.exe.config
+C:\Users\Raul\source\repos\FP\SecventaSumaProdus\SecventaSumaProdus\bin\Debug\SecventaSumaProdus.exe
+C:\Users\Raul\source\repos\FP\SecventaSumaProdus\SecventaSumaProdus\bin\Debug\SecventaSumaProdus.pdb
+C:\Users\Raul\source\repos\FP\SecventaSumaProdus\SecventaSumaProdus\obj\Debug\SecventaSumaProdus.exe
+C:\Users\Raul\source\repos\FP\SecventaSumaProdus\SecventaSumaProdus\obj\Debug\SecventaSumaProdus.pdb
