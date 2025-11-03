@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\FP\03.11\03.11\bin\Debug\03.11.exe.config
+C:\Users\Raul\source\repos\FP\03.11\03.11\bin\Debug\03.11.exe
+C:\Users\Raul\source\repos\FP\03.11\03.11\bin\Debug\03.11.pdb
+C:\Users\Raul\source\repos\FP\03.11\03.11\obj\Debug\03.11.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\FP\03.11\03.11\obj\Debug\03.11.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\FP\03.11\03.11\obj\Debug\03.11.exe
+C:\Users\Raul\source\repos\FP\03.11\03.11\obj\Debug\03.11.pdb
