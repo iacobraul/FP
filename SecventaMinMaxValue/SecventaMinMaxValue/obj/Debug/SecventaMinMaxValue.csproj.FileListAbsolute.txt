@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\FP\SecventaMinMaxValue\SecventaMinMaxValue\bin\Debug\SecventaMinMaxValue.exe.config
+C:\Users\Raul\source\repos\FP\SecventaMinMaxValue\SecventaMinMaxValue\bin\Debug\SecventaMinMaxValue.exe
+C:\Users\Raul\source\repos\FP\SecventaMinMaxValue\SecventaMinMaxValue\bin\Debug\SecventaMinMaxValue.pdb
+C:\Users\Raul\source\repos\FP\SecventaMinMaxValue\SecventaMinMaxValue\obj\Debug\SecventaMinMaxValue.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\FP\SecventaMinMaxValue\SecventaMinMaxValue\obj\Debug\SecventaMinMaxValue.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\FP\SecventaMinMaxValue\SecventaMinMaxValue\obj\Debug\SecventaMinMaxValue.exe
+C:\Users\Raul\source\repos\FP\SecventaMinMaxValue\SecventaMinMaxValue\obj\Debug\SecventaMinMaxValue.pdb
