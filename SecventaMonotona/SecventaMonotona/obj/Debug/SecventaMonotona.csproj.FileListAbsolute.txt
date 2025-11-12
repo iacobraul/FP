@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\FP\SecventaMonotona\SecventaMonotona\bin\Debug\SecventaMonotona.exe.config
+C:\Users\Raul\source\repos\FP\SecventaMonotona\SecventaMonotona\bin\Debug\SecventaMonotona.exe
+C:\Users\Raul\source\repos\FP\SecventaMonotona\SecventaMonotona\bin\Debug\SecventaMonotona.pdb
+C:\Users\Raul\source\repos\FP\SecventaMonotona\SecventaMonotona\obj\Debug\SecventaMonotona.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\FP\SecventaMonotona\SecventaMonotona\obj\Debug\SecventaMonotona.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\FP\SecventaMonotona\SecventaMonotona\obj\Debug\SecventaMonotona.exe
+C:\Users\Raul\source\repos\FP\SecventaMonotona\SecventaMonotona\obj\Debug\SecventaMonotona.pdb
