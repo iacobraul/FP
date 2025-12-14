@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raul\\source\\repos\\FP\\SecventaPozitieNumar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{633866DA-234B-4CE6-BFF6-5FDA2ACC8D61}|SecventaPozitieNumar\\SecventaPozitieNumar.csproj|c:\\users\\raul\\source\\repos\\fp\\secventapozitienumar\\secventapozitienumar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633866DA-234B-4CE6-BFF6-5FDA2ACC8D61}|SecventaPozitieNumar\\SecventaPozitieNumar.csproj|solutionrelative:secventapozitienumar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\FP\\SecventaPozitieNumar\\SecventaPozitieNumar\\Program.cs",
+              "RelativeDocumentMoniker": "SecventaPozitieNumar\\Program.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\FP\\SecventaPozitieNumar\\SecventaPozitieNumar\\Program.cs*",
+              "RelativeToolTip": "SecventaPozitieNumar\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T10:16:17.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

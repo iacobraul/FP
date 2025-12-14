@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\FP\SecventaPozitieNumar\SecventaPozitieNumar\bin\Debug\SecventaPozitieNumar.exe.config
+C:\Users\Raul\source\repos\FP\SecventaPozitieNumar\SecventaPozitieNumar\bin\Debug\SecventaPozitieNumar.exe
+C:\Users\Raul\source\repos\FP\SecventaPozitieNumar\SecventaPozitieNumar\bin\Debug\SecventaPozitieNumar.pdb
+C:\Users\Raul\source\repos\FP\SecventaPozitieNumar\SecventaPozitieNumar\obj\Debug\SecventaPozitieNumar.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\FP\SecventaPozitieNumar\SecventaPozitieNumar\obj\Debug\SecventaPozitieNumar.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\FP\SecventaPozitieNumar\SecventaPozitieNumar\obj\Debug\SecventaPozitieNumar.exe
+C:\Users\Raul\source\repos\FP\SecventaPozitieNumar\SecventaPozitieNumar\obj\Debug\SecventaPozitieNumar.pdb

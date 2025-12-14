@@ -1,0 +1,7 @@
+C:\Users\Raul\source\repos\FP\SecventaPozNr\SecventaPozNr\obj\Debug\SecventaPozNr.csproj.AssemblyReference.cache
+C:\Users\Raul\source\repos\FP\SecventaPozNr\SecventaPozNr\obj\Debug\SecventaPozNr.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\FP\SecventaPozNr\SecventaPozNr\bin\Debug\SecventaPozNr.exe.config
+C:\Users\Raul\source\repos\FP\SecventaPozNr\SecventaPozNr\bin\Debug\SecventaPozNr.exe
+C:\Users\Raul\source\repos\FP\SecventaPozNr\SecventaPozNr\bin\Debug\SecventaPozNr.pdb
+C:\Users\Raul\source\repos\FP\SecventaPozNr\SecventaPozNr\obj\Debug\SecventaPozNr.exe
+C:\Users\Raul\source\repos\FP\SecventaPozNr\SecventaPozNr\obj\Debug\SecventaPozNr.pdb
