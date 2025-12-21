@@ -4,7 +4,14 @@
   <Project Path="Ex 12/Ex 12.csproj" />
   <Project Path="Ex 13/Ex 13.csproj" />
   <Project Path="Ex 14/Ex 14.csproj" />
+  <Project Path="Ex 15/Ex 15.csproj" Id="9aa80ae0-b49a-4f25-8fc1-c97c62653ea0" />
+  <Project Path="Ex 16/Ex 16.csproj" Id="66482353-9380-4340-a187-752a2779ad59" />
+  <Project Path="Ex 17/Ex 17.csproj" Id="d5a8c4c0-2ddc-41b7-b784-71123c870ff6" />
+  <Project Path="Ex 18/Ex 18.csproj" Id="4033408d-9339-4b38-8006-0d2a85ede109" />
+  <Project Path="Ex 19/Ex 19.csproj" Id="ba4e3e71-82dc-41bd-8d06-f42a3fab9e0b" />
   <Project Path="Ex 2/Ex 2.csproj" />
+  <Project Path="Ex 20/Ex 20.csproj" Id="9385d4d7-051d-4f17-8de7-46c81819a5d8" />
+  <Project Path="Ex 21/Ex 21.csproj" Id="ab734ebb-e3f2-46cc-be29-a3ef3981d584" />
   <Project Path="Ex 3/Ex 3.csproj" />
   <Project Path="Ex 4/Ex 4.csproj" />
   <Project Path="Ex 5/Ex 5.csproj" />
