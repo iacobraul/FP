@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Ex 1/Ex 1.csproj" />
+  <Project Path="Ex 2/Ex 2.csproj" />
+  <Project Path="Ex 3/Ex 3.csproj" />
+  <Project Path="Ex 4/Ex 4.csproj" />
+  <Project Path="Ex 5/Ex 5.csproj" />
+  <Project Path="Ex 6/Ex 6.csproj" />
+  <Project Path="Ex 7/Ex 7.csproj" />
+  <Project Path="Lab - Set 2/Lab - Set 2.csproj" />
+</Solution>
