@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Raul\\source\\repos\\FP\\Lab - Set 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4267BD86-387B-458A-93BF-423447F3AD64}|Ex 7\\Ex 7.csproj|c:\\users\\raul\\source\\repos\\fp\\lab - set 2\\ex 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4267BD86-387B-458A-93BF-423447F3AD64}|Ex 7\\Ex 7.csproj|solutionrelative:ex 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6A1A1B4-187B-41A4-8A32-069DCA68DCDE}|Ex 16\\Ex 16.csproj|c:\\users\\raul\\source\\repos\\fp\\lab - set 2\\ex 16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A1A1B4-187B-41A4-8A32-069DCA68DCDE}|Ex 16\\Ex 16.csproj|solutionrelative:ex 16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{025D0C1F-A63F-40FE-8422-E136D0BDD17C}|Ex 6\\Ex 6.csproj|c:\\users\\raul\\source\\repos\\fp\\lab - set 2\\ex 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{025D0C1F-A63F-40FE-8422-E136D0BDD17C}|Ex 6\\Ex 6.csproj|solutionrelative:ex 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{241A8F32-6637-4282-AF39-620A7988DC84}|Ex 15\\Ex 15.csproj|c:\\users\\raul\\source\\repos\\fp\\lab - set 2\\ex 15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241A8F32-6637-4282-AF39-620A7988DC84}|Ex 15\\Ex 15.csproj|solutionrelative:ex 15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9469A5-D627-44F3-B1ED-0CEFBAD24EFF}|Ex 14\\Ex 14.csproj|c:\\users\\raul\\source\\repos\\fp\\lab - set 2\\ex 14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9469A5-D627-44F3-B1ED-0CEFBAD24EFF}|Ex 14\\Ex 14.csproj|solutionrelative:ex 14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +32,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\FP\\Lab - Set 2\\Ex 7\\Program.cs",
-              "RelativeDocumentMoniker": "Ex 7\\Program.cs",
-              "ToolTip": "C:\\Users\\Raul\\source\\repos\\FP\\Lab - Set 2\\Ex 7\\Program.cs",
-              "RelativeToolTip": "Ex 7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\FP\\Lab - Set 2\\Ex 16\\Program.cs",
+              "RelativeDocumentMoniker": "Ex 16\\Program.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\FP\\Lab - Set 2\\Ex 16\\Program.cs",
+              "RelativeToolTip": "Ex 16\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T15:17:15.056Z",
+              "WhenOpened": "2025-12-24T12:56:16.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\FP\\Lab - Set 2\\Ex 6\\Program.cs",
-              "RelativeDocumentMoniker": "Ex 6\\Program.cs",
-              "ToolTip": "C:\\Users\\Raul\\source\\repos\\FP\\Lab - Set 2\\Ex 6\\Program.cs",
-              "RelativeToolTip": "Ex 6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\FP\\Lab - Set 2\\Ex 15\\Program.cs",
+              "RelativeDocumentMoniker": "Ex 15\\Program.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\FP\\Lab - Set 2\\Ex 15\\Program.cs",
+              "RelativeToolTip": "Ex 15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T15:13:44.49Z",
+              "WhenOpened": "2025-12-24T12:50:23.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\FP\\Lab - Set 2\\Ex 14\\Program.cs",
+              "RelativeDocumentMoniker": "Ex 14\\Program.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\FP\\Lab - Set 2\\Ex 14\\Program.cs",
+              "RelativeToolTip": "Ex 14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T12:45:47.553Z",
               "EditorCaption": ""
             }
           ]
