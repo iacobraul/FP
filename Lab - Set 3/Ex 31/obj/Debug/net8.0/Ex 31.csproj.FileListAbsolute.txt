@@ -1,0 +1,15 @@
+C:\Users\Raul\source\repos\FP\Lab - Set 3\Ex 31\bin\Debug\net8.0\Ex 31.exe
+C:\Users\Raul\source\repos\FP\Lab - Set 3\Ex 31\bin\Debug\net8.0\Ex 31.deps.json
+C:\Users\Raul\source\repos\FP\Lab - Set 3\Ex 31\bin\Debug\net8.0\Ex 31.runtimeconfig.json
+C:\Users\Raul\source\repos\FP\Lab - Set 3\Ex 31\bin\Debug\net8.0\Ex 31.dll
+C:\Users\Raul\source\repos\FP\Lab - Set 3\Ex 31\bin\Debug\net8.0\Ex 31.pdb
+C:\Users\Raul\source\repos\FP\Lab - Set 3\Ex 31\obj\Debug\net8.0\Ex 31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\source\repos\FP\Lab - Set 3\Ex 31\obj\Debug\net8.0\Ex 31.AssemblyInfoInputs.cache
+C:\Users\Raul\source\repos\FP\Lab - Set 3\Ex 31\obj\Debug\net8.0\Ex 31.AssemblyInfo.cs
+C:\Users\Raul\source\repos\FP\Lab - Set 3\Ex 31\obj\Debug\net8.0\Ex 31.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\FP\Lab - Set 3\Ex 31\obj\Debug\net8.0\Ex 31.sourcelink.json
+C:\Users\Raul\source\repos\FP\Lab - Set 3\Ex 31\obj\Debug\net8.0\Ex 31.dll
+C:\Users\Raul\source\repos\FP\Lab - Set 3\Ex 31\obj\Debug\net8.0\refint\Ex 31.dll
+C:\Users\Raul\source\repos\FP\Lab - Set 3\Ex 31\obj\Debug\net8.0\Ex 31.pdb
+C:\Users\Raul\source\repos\FP\Lab - Set 3\Ex 31\obj\Debug\net8.0\Ex 31.genruntimeconfig.cache
+C:\Users\Raul\source\repos\FP\Lab - Set 3\Ex 31\obj\Debug\net8.0\ref\Ex 31.dll
