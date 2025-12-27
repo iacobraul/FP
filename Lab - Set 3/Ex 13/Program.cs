@@ -1,9 +1,9 @@
 ﻿// 13. Sortare prin insertie. Implementati algoritmul de sortare <Insertion Sort>
 int n;
 
-n = int.Parse(Console.ReadLine());
 string input = Console.ReadLine();
 string[] tokens = input.Split(' ');
+n = tokens.Length;
 
 int[] v = new int[n];
 for (int i = 0; i < n; i++)

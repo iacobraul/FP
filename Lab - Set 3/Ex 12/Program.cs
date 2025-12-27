@@ -1,9 +1,9 @@
 ﻿//12. Sortare selectie. Implementati algoritmul de sortare <Selection Sort>
 int n;
 
-n = int.Parse(Console.ReadLine());
 string input = Console.ReadLine();
 string[] tokens = input.Split(' ');
+n = tokens.Length;
 
 int[] v = new int[n];
 for (int i = 0; i < n; i++)

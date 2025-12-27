@@ -1,10 +1,11 @@
 ﻿//3. Sa se determine pozitiile dintr-un vector pe care apar cel mai mic si cel mai mare element al vectorului
 int n, min, max, imin = 0, imax = 0;
 
-n = int.Parse(Console.ReadLine());
+
 string input = Console.ReadLine();
 string[] tokens = input.Split(' ');
 
+n = tokens.Length;
 int[] v = new int[n];
 min = int.Parse(tokens[0]);
 max = int.Parse(tokens[0]);

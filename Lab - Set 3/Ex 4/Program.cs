@@ -1,9 +1,9 @@
 ﻿//4. Deteminati printr-o singura parcurgere, cea mai mica si cea mai mare valoare dintr-un vector si de cate ori apar acestea
 int n, min, max, apMin = 0, apMax = 0;
 
-n = int.Parse(Console.ReadLine());
 string input = Console.ReadLine();
 string[] tokens = input.Split(' ');
+n = tokens.Length;
 
 int[] v = new int[n];
 min = int.Parse(tokens[0]);

@@ -1,9 +1,9 @@
 ﻿//15. Modificati un vector prin eliminarea elementelor care se repeta, fara a folosi un alt vector
 int n;
 
-n = int.Parse(Console.ReadLine());
 string input= Console.ReadLine();
 string[] tokens = input.Split(' ');
+n = tokens.Length;
 
 int[] v = new int[n];
 for (int i = 0; i < n; i++)
