@@ -1,0 +1,15 @@
+C:\Users\Raul\source\repos\FP\Selection Sort\bin\Debug\net10.0\Selection Sort.exe
+C:\Users\Raul\source\repos\FP\Selection Sort\bin\Debug\net10.0\Selection Sort.deps.json
+C:\Users\Raul\source\repos\FP\Selection Sort\bin\Debug\net10.0\Selection Sort.runtimeconfig.json
+C:\Users\Raul\source\repos\FP\Selection Sort\bin\Debug\net10.0\Selection Sort.dll
+C:\Users\Raul\source\repos\FP\Selection Sort\bin\Debug\net10.0\Selection Sort.pdb
+C:\Users\Raul\source\repos\FP\Selection Sort\obj\Debug\net10.0\Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\source\repos\FP\Selection Sort\obj\Debug\net10.0\Selection Sort.AssemblyInfoInputs.cache
+C:\Users\Raul\source\repos\FP\Selection Sort\obj\Debug\net10.0\Selection Sort.AssemblyInfo.cs
+C:\Users\Raul\source\repos\FP\Selection Sort\obj\Debug\net10.0\Selection Sort.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\FP\Selection Sort\obj\Debug\net10.0\Selection Sort.sourcelink.json
+C:\Users\Raul\source\repos\FP\Selection Sort\obj\Debug\net10.0\Selection Sort.dll
+C:\Users\Raul\source\repos\FP\Selection Sort\obj\Debug\net10.0\refint\Selection Sort.dll
+C:\Users\Raul\source\repos\FP\Selection Sort\obj\Debug\net10.0\Selection Sort.pdb
+C:\Users\Raul\source\repos\FP\Selection Sort\obj\Debug\net10.0\Selection Sort.genruntimeconfig.cache
+C:\Users\Raul\source\repos\FP\Selection Sort\obj\Debug\net10.0\ref\Selection Sort.dll

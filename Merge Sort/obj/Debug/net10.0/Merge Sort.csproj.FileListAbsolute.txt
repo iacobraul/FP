@@ -1,0 +1,15 @@
+C:\Users\Raul\source\repos\FP\Merge Sort\bin\Debug\net10.0\Merge Sort.exe
+C:\Users\Raul\source\repos\FP\Merge Sort\bin\Debug\net10.0\Merge Sort.deps.json
+C:\Users\Raul\source\repos\FP\Merge Sort\bin\Debug\net10.0\Merge Sort.runtimeconfig.json
+C:\Users\Raul\source\repos\FP\Merge Sort\bin\Debug\net10.0\Merge Sort.dll
+C:\Users\Raul\source\repos\FP\Merge Sort\bin\Debug\net10.0\Merge Sort.pdb
+C:\Users\Raul\source\repos\FP\Merge Sort\obj\Debug\net10.0\Merge Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\source\repos\FP\Merge Sort\obj\Debug\net10.0\Merge Sort.AssemblyInfoInputs.cache
+C:\Users\Raul\source\repos\FP\Merge Sort\obj\Debug\net10.0\Merge Sort.AssemblyInfo.cs
+C:\Users\Raul\source\repos\FP\Merge Sort\obj\Debug\net10.0\Merge Sort.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\FP\Merge Sort\obj\Debug\net10.0\Merge Sort.sourcelink.json
+C:\Users\Raul\source\repos\FP\Merge Sort\obj\Debug\net10.0\Merge Sort.dll
+C:\Users\Raul\source\repos\FP\Merge Sort\obj\Debug\net10.0\refint\Merge Sort.dll
+C:\Users\Raul\source\repos\FP\Merge Sort\obj\Debug\net10.0\Merge Sort.pdb
+C:\Users\Raul\source\repos\FP\Merge Sort\obj\Debug\net10.0\Merge Sort.genruntimeconfig.cache
+C:\Users\Raul\source\repos\FP\Merge Sort\obj\Debug\net10.0\ref\Merge Sort.dll

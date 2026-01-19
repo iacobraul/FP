@@ -1,0 +1,32 @@
+<Solution>
+  <Project Path="../../Insertion Sort/Insertion Sort.csproj" Id="d6e37e3f-7249-4434-98f5-5648d706263e" />
+  <Project Path="../../Merge Sort/Merge Sort.csproj" Id="f945476d-ce7f-4267-8f21-ba66222e8f85" />
+  <Project Path="../../Quick Sort/Quick Sort.csproj" Id="f40f7eeb-da53-489f-b11d-e67438cfd53b" />
+  <Project Path="../../Selection Sort/Selection Sort.csproj" Id="4764524c-126a-492b-9ce6-31a91632a73d" />
+  <Project Path="../ex 10/ex 10.csproj" Id="966f2af0-d1a8-4d7f-bd73-43f65491aa23" />
+  <Project Path="../ex 11/ex 11.csproj" Id="17dea75d-2125-4c74-949b-ee6d1b3d4276" />
+  <Project Path="../ex 14/ex 14.csproj" Id="b837f2e0-1ef5-4989-abef-7b5207b183cc" />
+  <Project Path="../ex 15/ex 15.csproj" Id="c4c4ad02-9509-400b-9b21-bc3c351a8b55" />
+  <Project Path="../ex 16/ex 16.csproj" Id="33bfe2b8-649f-42a1-8799-4bcfa725afff" />
+  <Project Path="../ex 17/ex 17.csproj" Id="07c018ac-9bef-44e8-9d0c-cbc34302637f" />
+  <Project Path="../ex 18/ex 18.csproj" Id="7cae8943-b0f6-4e7f-bd68-b1f05d4e24c2" />
+  <Project Path="../ex 19/ex 19.csproj" Id="c5870157-850d-4ac6-9f32-9e1e8642b305" />
+  <Project Path="../ex 21/ex 21.csproj" Id="a3b50d2d-60b7-4dd1-9e06-3a1e48175db1" />
+  <Project Path="../ex 22/ex 22.csproj" Id="af98573d-d1dc-4c69-8825-55addf0accf0" />
+  <Project Path="../ex 24/ex 24.csproj" Id="fb8a1456-2606-4b2d-af40-38bb73e24f40" />
+  <Project Path="../ex 25/ex 25.csproj" Id="67564e3d-aee7-4900-85f2-ff915cf22d76" />
+  <Project Path="../ex 26/ex 26.csproj" Id="21c482ec-8687-46eb-bc15-b3e6cffab79b" />
+  <Project Path="../ex 27/ex 27.csproj" Id="fbb8cdac-0be3-45e0-bd76-ee180225ad91" />
+  <Project Path="../ex 3/ex 3.csproj" />
+  <Project Path="../ex 30/ex 30.csproj" Id="aee89066-f48d-4b86-8831-b3a1a998f27b" />
+  <Project Path="../ex 31/ex 31.csproj" Id="4071a928-b776-4ea4-8435-d7348ab66c2d" />
+  <Project Path="../ex 4/ex 4.csproj" />
+  <Project Path="../ex 5/ex 5.csproj" />
+  <Project Path="../ex 6/ex 6.csproj" />
+  <Project Path="../ex 7/ex 7.csproj" />
+  <Project Path="../ex 8/ex 8.csproj" />
+  <Project Path="../ex 9/ex 9.csproj" />
+  <Project Path="ex 1/ex 1.csproj" />
+  <Project Path="ex 2/ex 2.csproj" />
+  <Project Path="ex 20/ex 20.csproj" Id="a9e29596-10f8-443c-b09b-78ced0a5266a" />
+</Solution>

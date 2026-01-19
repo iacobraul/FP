@@ -1,0 +1,15 @@
+C:\Users\Raul\source\repos\FP\Quick Sort\bin\Debug\net10.0\Quick Sort.exe
+C:\Users\Raul\source\repos\FP\Quick Sort\bin\Debug\net10.0\Quick Sort.deps.json
+C:\Users\Raul\source\repos\FP\Quick Sort\bin\Debug\net10.0\Quick Sort.runtimeconfig.json
+C:\Users\Raul\source\repos\FP\Quick Sort\bin\Debug\net10.0\Quick Sort.dll
+C:\Users\Raul\source\repos\FP\Quick Sort\bin\Debug\net10.0\Quick Sort.pdb
+C:\Users\Raul\source\repos\FP\Quick Sort\obj\Debug\net10.0\Quick Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\source\repos\FP\Quick Sort\obj\Debug\net10.0\Quick Sort.AssemblyInfoInputs.cache
+C:\Users\Raul\source\repos\FP\Quick Sort\obj\Debug\net10.0\Quick Sort.AssemblyInfo.cs
+C:\Users\Raul\source\repos\FP\Quick Sort\obj\Debug\net10.0\Quick Sort.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\FP\Quick Sort\obj\Debug\net10.0\Quick Sort.sourcelink.json
+C:\Users\Raul\source\repos\FP\Quick Sort\obj\Debug\net10.0\Quick Sort.dll
+C:\Users\Raul\source\repos\FP\Quick Sort\obj\Debug\net10.0\refint\Quick Sort.dll
+C:\Users\Raul\source\repos\FP\Quick Sort\obj\Debug\net10.0\Quick Sort.pdb
+C:\Users\Raul\source\repos\FP\Quick Sort\obj\Debug\net10.0\Quick Sort.genruntimeconfig.cache
+C:\Users\Raul\source\repos\FP\Quick Sort\obj\Debug\net10.0\ref\Quick Sort.dll

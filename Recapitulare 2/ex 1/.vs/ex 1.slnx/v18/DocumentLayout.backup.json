@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raul\\source\\repos\\FP\\Recapitulare 2\\ex 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFDF46A5-288E-4769-9EAF-53874D4A7E19}|..\\ex 17\\ex 17.csproj|c:\\users\\raul\\source\\repos\\fp\\recapitulare 2\\ex 17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD37D7B-AB25-40FA-9A77-B0DEBAA302BD}|ex 16\\ex 16.csproj|c:\\users\\raul\\source\\repos\\fp\\recapitulare 2\\ex 1\\ex 16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD37D7B-AB25-40FA-9A77-B0DEBAA302BD}|ex 16\\ex 16.csproj|solutionrelative:ex 16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BB5840-0939-40B0-A6B2-59F539D32C2A}|..\\ex 15\\ex 15.csproj|c:\\users\\raul\\source\\repos\\fp\\recapitulare 2\\ex 15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\FP\\Recapitulare 2\\ex 17\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex 17\\Program.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\FP\\Recapitulare 2\\ex 17\\Program.cs",
+              "RelativeToolTip": "..\\ex 17\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:36:45.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\FP\\Recapitulare 2\\ex 1\\ex 16\\Program.cs",
+              "RelativeDocumentMoniker": "ex 16\\Program.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\FP\\Recapitulare 2\\ex 1\\ex 16\\Program.cs",
+              "RelativeToolTip": "ex 16\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:23:35.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raul\\source\\repos\\FP\\Recapitulare 2\\ex 15\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex 15\\Program.cs",
+              "ToolTip": "C:\\Users\\Raul\\source\\repos\\FP\\Recapitulare 2\\ex 15\\Program.cs",
+              "RelativeToolTip": "..\\ex 15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T14:16:01.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Raul\source\repos\FP\Recapitulare 2\ex 1\ex 10\bin\Debug\net10.0\ex 10.exe
+C:\Users\Raul\source\repos\FP\Recapitulare 2\ex 1\ex 10\bin\Debug\net10.0\ex 10.deps.json
+C:\Users\Raul\source\repos\FP\Recapitulare 2\ex 1\ex 10\bin\Debug\net10.0\ex 10.runtimeconfig.json
+C:\Users\Raul\source\repos\FP\Recapitulare 2\ex 1\ex 10\bin\Debug\net10.0\ex 10.dll
+C:\Users\Raul\source\repos\FP\Recapitulare 2\ex 1\ex 10\bin\Debug\net10.0\ex 10.pdb
+C:\Users\Raul\source\repos\FP\Recapitulare 2\ex 1\ex 10\obj\Debug\net10.0\ex 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul\source\repos\FP\Recapitulare 2\ex 1\ex 10\obj\Debug\net10.0\ex 10.AssemblyInfoInputs.cache
+C:\Users\Raul\source\repos\FP\Recapitulare 2\ex 1\ex 10\obj\Debug\net10.0\ex 10.AssemblyInfo.cs
+C:\Users\Raul\source\repos\FP\Recapitulare 2\ex 1\ex 10\obj\Debug\net10.0\ex 10.csproj.CoreCompileInputs.cache
+C:\Users\Raul\source\repos\FP\Recapitulare 2\ex 1\ex 10\obj\Debug\net10.0\ex 10.sourcelink.json
+C:\Users\Raul\source\repos\FP\Recapitulare 2\ex 1\ex 10\obj\Debug\net10.0\ex 10.dll
+C:\Users\Raul\source\repos\FP\Recapitulare 2\ex 1\ex 10\obj\Debug\net10.0\refint\ex 10.dll
+C:\Users\Raul\source\repos\FP\Recapitulare 2\ex 1\ex 10\obj\Debug\net10.0\ex 10.pdb
+C:\Users\Raul\source\repos\FP\Recapitulare 2\ex 1\ex 10\obj\Debug\net10.0\ex 10.genruntimeconfig.cache
+C:\Users\Raul\source\repos\FP\Recapitulare 2\ex 1\ex 10\obj\Debug\net10.0\ref\ex 10.dll
